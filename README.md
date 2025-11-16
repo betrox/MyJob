@@ -21,7 +21,7 @@
 
 ## 系统要求
 
-- PHP 7.4 或更高版本
+- PHP 7.4 或更高版本,无需数据库。
 - Composer 2.0 或更高版本
 - MySQL 5.7 或更高版本 / PostgreSQL / SQLite
 - Node.js 14+ 和 NPM (用于前端资源)
