@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <rect x="5" y="5" width="50" height="50" rx="8" fill="#f0fdf4" stroke="#26ae61" stroke-width="2"/>
+  <text x="30" y="35" font-family="Poppins, sans-serif" font-size="14" font-weight="600" fill="#26ae61" text-anchor="middle">Tech Bits</text>
+  <path d="M20,45 L25,30 L30,45 L35,30 L40,45" stroke="#26ae61" stroke-width="3" fill="none"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="40" viewBox="0 0 120 40">
+  <rect x="0" y="0" width="120" height="40" rx="4" fill="#26ae61"/>
+  <path d="M15,28 L15,12 L20,12 L20,28 L15,28 Z M25,28 L25,12 L30,12 L30,28 L25,28 Z M35,28 L35,12 L40,12 L40,18 L45,18 L45,12 L50,12 L50,28 L45,28 L45,22 L40,22 L40,28 L35,28 Z" fill="white"/>
+  <text x="55" y="26" font-family="Poppins, sans-serif" font-size="18" font-weight="600" fill="white">WorkScout</text>
+</svg>

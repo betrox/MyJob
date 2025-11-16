@@ -1,0 +1,18 @@
+{
+    "default": {
+        "site_name": "Job Chain",
+        "site_description": "一个简洁的招聘与求职平台"
+    },
+    "domains": [
+        {
+            "pattern": "*.myjob.one",
+            "site_name": "MyJob - CN",
+            "site_description": "中文招聘平台"
+        },
+        {
+            "pattern": "*.myjobs.one",
+            "site_name": "Example Jobs",
+            "site_description": "Tech jobs portal for Example"
+        }
+    ]
+}
